@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Digimind</string>
+    <string name="title_home">My board</string>
+    <string name="title_dashboard">New remainder</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="what_do_u_want">¿What do you want to remember to do?</string>
+    <string name="when_do_u_want_it">¿When do you want it?</string>
+    <string name="take_my_pill">Take my pill</string>
+    <string name="lunes">Monday</string>
+    <string name="martes">Tueday</string>
+    <string name="miercoles">Wednesday</string>
+    <string name="jueves">Thursday</string>
+    <string name="viernes">Friday</string>
+    <string name="sabado">Saturday</string>
+    <string name="domingo">Sunday</string>
+    <string name="at_what_time">At what time</string>
+    <string name="set_time">Set time</string>
+</resources>
